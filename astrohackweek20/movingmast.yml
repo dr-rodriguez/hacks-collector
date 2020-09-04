@@ -1,0 +1,17 @@
+title: Search MAST for Moving Targets
+creators:
+    - David Rodriguez
+    - Clara Brasseur 
+    - Uday Ghosh 
+    - Malena Rice
+    - Mariia Demianenko
+    - Kevin Ortiz
+description: We’ve created a prototype interface that can be used to search for MAST data for a specified target (eg, planet, asteroid, etc) in a given time range.
+source-url: https://github.com/dr-rodriguez/MovingMast
+live-url: 
+    - https://mybinder.org/v2/gh/dr-rodriguez/MovingMast/main?filepath=DemoInterface2.ipynb
+    - https://movingmast.herokuapp.com/
+images: 
+    - gui_1.png
+    - bokeh_1.png
+contact-github: dr-rodriguez
